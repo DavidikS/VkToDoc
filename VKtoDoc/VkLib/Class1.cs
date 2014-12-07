@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace VkLib
 {
+    //Hello Polina
     public class Class1
     {
     }
